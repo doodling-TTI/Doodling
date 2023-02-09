@@ -51,6 +51,7 @@ const ImageBox = styled.div`
   position: relative;
 
   @media screen and (max-width: 1030px) {
+    margin-top: 15px;
     margin-bottom: 0;
     margin-right: 10px;
     flex-shrink: 0;

@@ -64,7 +64,7 @@ export default function Landing5() {
                 }}
               >
                 <PlanTitle>$75.5k</PlanTitle>
-                <PlanDetail>&nbsp;/m</PlanDetail>
+                <PlanDetail>&nbsp;/yr</PlanDetail>
               </div>
               <Button onClick={() => navigate("/contact")}> Contact us</Button>
             </div>
